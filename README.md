@@ -1,8 +1,9 @@
-# Portfolio-2023
-My Technical Writing Portfolio
+# Matthew Danda's Technical Writing Portfolio
 
 This repository contains samples of my work as a Software Technical Writer. 
 
-Please note that a substantional portion of my work is marked as "Company Confidential", and thus I cannot share. 
+I wrote all the content within these samples. Please note that I did NOT perform the page layout and design. 
 
-All the samples in this repository are shareable and thus fully cleared for public consumption. 
+All items are shareable and otherwise fully cleared for public consumption.
+
+A substantial portion of my work consists of User Guides and Configuration Guides that are, unfortunately, marked as Company Confidential. As a result, they are not represented in this portfolio. 
