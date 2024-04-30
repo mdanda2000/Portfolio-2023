@@ -2,8 +2,6 @@
 
 This repository contains samples of my work as a Software Technical Writer. 
 
-I wrote all the content within these samples. Please note that I did NOT perform the page layout and design. 
+I wrote all the content within these samples. All items are shareable and otherwise fully cleared for public consumption.  
 
-All items are shareable and otherwise fully cleared for public consumption.
-
-A substantial portion of my work consists of User Guides and Configuration Guides that are, unfortunately, marked as Company Confidential. As a result, they are not represented in this portfolio. 
+To learn more about me and my approach to technical writing, see my YouTube video, [Matt's Primer on Creating Great Software Documentation](https://www.youtube.com/watch?v=HpSyKAqs3Xc).
